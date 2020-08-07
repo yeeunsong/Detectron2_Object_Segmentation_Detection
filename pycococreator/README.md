@@ -1,4 +1,4 @@
-### Creating CoCo Dataset   
+### Creating COCO Dataset   
 
 Detectron's input format supports the below builtin data format.   
 -  COCO instance/keypoint detection   
